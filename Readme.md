@@ -5,6 +5,8 @@ Virtual Debate Arenas is a blockchain-based platform designed to host structured
 
 ## Contract Address
 0x17B37fBBA68CA397d07548fc375599EcB50942dA
+![image](https://github.com/user-attachments/assets/51829a04-2c0c-40b0-b424-31fb97e977c1)
+
 
 ## Project Vision
 Our vision is to create a global, decentralized platform where individuals can engage in meaningful debates on various topics. By leveraging blockchain technology, Virtual Debate Arenas ensures that all interactions, votes, and results are transparent and tamper-proof, fostering trust and inclusivity.
